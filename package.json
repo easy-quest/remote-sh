@@ -9,7 +9,7 @@
   "dependencies": {
     "@yuri2/utils-general": "^1.2.4",
     "axios": "^0.19.2",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "fs-extra": "^9.0.0",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
@@ -24,7 +24,7 @@
     "moment-timezone": "^0.5.27",
     "node-fetch": "^2.6.0",
     "pug": "^2.0.3",
-    "socket.io": "^2.3.0",
+    "socket.io": "^3.0.5",
     "yl-mem-cache": "^1.0.0"
   },
   "devDependencies": {
